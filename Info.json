@@ -8,7 +8,7 @@
   "Desc": "MOD by.KamalMlvnd, 95% Terjemahan Ke Dalam Bahasa Indonesia.",
   "Author": "KamalMlvnd",
   "UIPackage": null,
-  "ID": "BMA",
+  "ID": ,
   "Flag": 0,
   "Tags": null,
   "IncreasedDesc": "Update! Memperbaiki Beberapa Suku Kata",
@@ -17,4 +17,3 @@
   "Dependencies": null,
   "Url": "https://github.com/lelyizha-stack/Codezero1",
   "VersionValue": 104.0
-  }
